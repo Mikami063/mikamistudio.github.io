@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+@freedom of press吾言吾所欲
+
 # Intro
 Every image fox used to have on the website is now permently lost. It's a great lost to fox, and fox missed the picture at project page which senzawa throw her beer cans. Anyway, the fox's website is now back. Poor fox no longer need to pay $10 per month anymore, fox found GitHub Pages! Let's rejoice at the place where there is no darkness. by fox - March 22, 2024  
   
@@ -8,38 +10,13 @@ Every image fox used to have on the website is now permently lost. It's a great 
 ![alt text](assets/pics/pic01.png "Title")
 <br/>
 
-@freedom of press吾言吾所欲
+# For the future
+The plan right now is to re-add the blog components, the function is already implemeted, the only thing left is to create some blog content.
 
-⛩️カミさん，お代わりください（ふう、しやわせ〜）⛩️
+By the way, fox also lost the contents of previous posts
 
-大狐狸，再来一杯！（呼啊～被幸福包裹的感觉）
-<br/>
-<br/>
+![alt text](assets/pics/IMG_1203.JPG "")
 
-Mastodon Server~~(Now accessible only for invited members)~~ closed
+And also refine some project. Fox is now focusing on c++ development, it's quiet a fun journey.
 
-~~take me to the server!(maybe already half abandoned due to unacceptable stupid design of this app)~~
-<br/>
-<br/>
-
-Ultimate chat room ELEMENT 聊天室 closed
-
-~~take me to the server!~~
-<br/>
-<br/>
-
-Blogger Server 博客/部落格 closed
-
-~~take me to the server!~~
-<br/>
-<br/>
-
-Minecraft Java Server closed
-
-!abandoned project! 已关闭
-<br/>
-<br/>
-
-Special Event
-
---------> None
+![alt text](assets/pics/IMG_1021.JPG "")
