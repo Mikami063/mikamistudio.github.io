@@ -14,9 +14,10 @@ Every image fox used to have on the website is now permently lost. It's a great 
 The plan right now is to re-add the blog components, the function is already implemeted, the only thing left is to create some blog content.
 
 By the way, fox also lost the contents of previous posts
-
+<br/>
 ![alt text](assets/pics/IMG_1203.JPG "")
-
+<br/>
 And also refine some project. Fox is now focusing on c++ development, it's quiet a fun journey.
-
+<br/>
 ![alt text](assets/pics/IMG_1021.JPG "")
+<br/>
