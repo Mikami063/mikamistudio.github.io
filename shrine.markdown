@@ -13,23 +13,28 @@ fox recommendation: Linode doc -> linode.com/docs
 
 <br/>
 
-# MAGIC(V) SYNC(P) NETWORK(N) FOR CHINA MAINLAND
-~~fox recommendation: GLaDOS -> glados.one(maybe outdated)~~
-
-Fox broke free, fox is no longer in CCP China, so no more vpn update
-
-<br/>
-
 # Video game production
-~~fox recommendation: Unity -> unity.com for both 2D and 3D game produciton.
-It's important to select tools that many people use in eraly stage of learning, so you can have tons of learning resourses.(ex. on Youtube)~~
+Right now fox is using c++ with cmake and SDL2 for game dev. Pretty low level, and pretty fun.
+<br/>
+<br/>
 
+ECS(Entity Component System) concept and its implemetation in c++ with template:
 
-right now fox is using c++ with cmake and SDL2 for game dev
+<a href="https://austinmorlan.com/posts/entity_component_system/#What%20Is%20An%20Ecs?">https://austinmorlan.com/posts/entity_component_system/#What Is An Ecs?</a>
 
 <br/>
-# Other fox recommandation
-~~soon out maybe with wordpress subwebsite?~~
+Nice tutorial that teach you how to write c++ template:
+
+<a href="https://www.youtube.com/watch?v=HqsEHG0QJXU">Back to Basics: Templates in C++ - Nicolai Josuttis - CppCon 2022</a>
+
+# 
+Right now fox is using c++ with cmake and SDL2 for game dev. Pretty low level, and pretty fun.
+<br/>
+<br/>
+
+# Video Player
+fill in later...
+
 
 <br/>
 # Website in continou development:
