@@ -1,6 +1,18 @@
-- name: Posts
-  link: /posts
-- name: Categories
-  link: /categories/
-- name: About & Contact
+- name: Main
   link: /
+- name: About
+  link: /about
+# - name: Friends
+#   link: /friends
+- name: Album
+  link: /music
+- name: Relex Room
+  link: /relax
+- name: Shrine
+  link: /shrine
+- name: Research Project
+  link: /project
+# - name: Posts(not implemented)
+#   link: /posts
+# - name: Categories(not implemented)
+#   link: /categories/

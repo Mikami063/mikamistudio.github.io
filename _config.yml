@@ -1,8 +1,8 @@
 # Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
+name: 三神社 Mikami Jinja
+description: Website, owned by fox Inc.
 url: https://example.com
-author: tajacks
+author: Mikami
 timezone: America/Toronto
 timezone_short: ET
 

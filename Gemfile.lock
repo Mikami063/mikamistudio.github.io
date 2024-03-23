@@ -65,6 +65,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  arm64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
@@ -75,7 +76,7 @@ DEPENDENCIES
   webrick
 
 RUBY VERSION
-   ruby 3.0.2p107
+   ruby 3.1.3p185
 
 BUNDLED WITH
    2.3.10
