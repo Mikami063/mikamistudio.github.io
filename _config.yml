@@ -2,6 +2,7 @@
 name: 三神社 Mikami Jinja
 description: Website, owned by fox Inc.
 author: Mikami
+base_url: "/mikamistudio.github.io"
 timezone: America/Toronto
 timezone_short: ET
 
