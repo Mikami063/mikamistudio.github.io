@@ -1,5 +1,7 @@
 - name: Main
   link: /
+- name: Posts
+  link: /posts
 - name: About
   link: /about
 # - name: Friends
@@ -12,7 +14,5 @@
   link: /shrine
 - name: Research Project
   link: /project
-# - name: Posts(not implemented)
-#   link: /posts
 # - name: Categories(not implemented)
 #   link: /categories/
